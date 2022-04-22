@@ -96,7 +96,7 @@ Mobile
 Como executar o projeto
 </h2>
 <p> Para executar o projeto basta clonar o repositório executando no terminal:
- <code> git clone https://github.com/renanmdreis45/App-orcamento-pessoal </code>
+ <code> git clone https://github.com/renanmdreis45/BeautySalon </code>
 </p>
 <p>
 Em seguida, basta abrir o projeto na sua IDE e executar a página html para visualizar no browser.
