@@ -11,7 +11,7 @@
 </h2>
 
 <p>
-O Beauty Salon foi feito para um salão de beleza fictício de São Paulo e conta com um design web responsivo
+O Beauty Salon foi feito para um salão de beleza fictício de São Paulo e conta com um design web responsivo.
 </p>
 
 <p>
@@ -42,7 +42,7 @@ O site possui as seguintes  seções:
 </p>
 
 <p>
- Esse projeto foi desenvolvido durante a missão Origin da <a href="https://www.rocketseat.com.br">Rocketseat</a>
+ Esse projeto foi desenvolvido durante a missão Origin da <a href="https://www.rocketseat.com.br">Rocketseat</a>.
 </p>
 
 <h2>
