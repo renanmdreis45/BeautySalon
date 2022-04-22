@@ -1,7 +1,7 @@
 # BeautySalon
 
 <p align="center"> 
-<a href="https://ibb.co/BPycCpp"><img src="https://i.ibb.co/LPxYZFF/005449dfb9187ee934799c477906215c.jpg" alt="logo secador de cabelos" border="0"></a>
+<a href="https://ibb.co/BPycCpp"><img src="https://i.ibb.co/LPxYZFF/005449dfb9187ee934799c477906215c.jpg" alt="logo secador de cabelos" width="64px" height="64px" border="0"></a>
 </p>
 
 <h2>
@@ -52,18 +52,16 @@ O site possui as seguintes  seções:
  Layout
 </h2>
 <p> O layout da aplicação está disponível no Figma </p>
-<a href="https://www.figma.com/file/ejrz47kZrSOBEq41EGDuJw/App-Orçamento-Pessoal" rel="nofollow">
+<a href="https://www.figma.com/community/file/1009807319507822993/Origin-Six" rel="nofollow">
 <img alt="Acessar layout" src="https://camo.githubusercontent.com/35587ee124e65a7d141f05094932ff386c88e5326d7780dad7bc079906a03bd5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416365737361722532304c61796f75742532302d4669676d612d253233303444333631" data-canonical-src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361" style="max-width: 100%;">
 </a>
 <h3>
  <a id="user-content-mobile" class="anchor" aria-hidden="true" href="#mobile"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
 Web
 </h3>
-<p align="center"> 
-<a href="https://ibb.co/x7byBzZ"><img src="https://i.ibb.co/XCP9KFH/cadastro-de-despesas.png"  style="max-width: 100%;" alt="cadastro-de-despesas" border="0"></a>
-<a href="https://ibb.co/WkWchJJ"><img src="https://i.ibb.co/StXKjCC/consulta-de-despesas.png" alt="consulta-de-despesas" border="0"></a>
-<a href="https://ibb.co/0Mm1QpL"><img src="https://i.ibb.co/tsQn3w6/registro-inserido-sucesso.png" alt="registro-inserido-sucesso" border="0"></a>
-<a href="https://ibb.co/0YhF33L"><img src="https://i.ibb.co/nQznSSy/registro-falha.png" alt="registro-falha" border="0"></a>
+<p align="center">
+ <a href="https://ibb.co/C5VjY85"><img src="https://i.ibb.co/99yx1g9/beauty-salon-web.png" alt="beauty-salon-web" border="0"></a>
+ <a href="https://ibb.co/wJXBwRv"><img src="https://i.ibb.co/PTnF9NS/servi-os-web.png" alt="servi-os-web" border="0"></a>
 </p>
 
 <h3>
@@ -71,8 +69,8 @@ Web
 Mobile
 </h3>
 <p align="center"> 
-<a href="https://ibb.co/jvcC0Cv"><img src="https://i.ibb.co/TBVQjQB/cadastro-mobile.png" width="45%;" alt="cadastro-mobile" border="0" style="max-width: 100%;" height="650px"></a>
-<a href="https://ibb.co/tCHVrQN"><img src="https://i.ibb.co/Thw93Yn/consulta-mobile.png" width="45%;" alt="consulta-mobile" border="0" style="max-width: 100%;"></a>
+ <a href="https://ibb.co/nfmj0Gj"><img src="https://i.ibb.co/82s9BC9/Mobile.png" alt="Design Início Mobile" border="0" height="629px"></a>
+ <a href="https://ibb.co/yXDndp4"><img src="https://i.ibb.co/ZV36GS2/navega-o-mobile.png" alt="navegação mobile" border="0" height="629px"></a>
 </p>
 
 <h2>
@@ -83,10 +81,15 @@ Mobile
 <p> As seguintes linguagens foram usadas na construção do projeto:</p>
 <ul>
  <li> Html </li>
- <li> Css / Bootstrap </li>
+ <li> Css </li>
  <li> Javascript </li>
 </ul>
-
+<p> Bibliotecas usadas:</p>
+<ul dir="auto">
+<li><a href="https://fonts.google.com/" rel="nofollow">Google Fonts</a></li>
+<li><a href="https://github.com/nolimits4web/Swiper">SwipeJS</a></li>
+<li><a href="https://scrollrevealjs.org" rel="nofollow">ScrollReveal</a></li>
+</ul>
 <h2>
 <a id="user-content--como-executar-o-projeto" class="anchor" aria-hidden="true" href="#-como-executar-o-projeto"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
 <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>
@@ -96,7 +99,7 @@ Como executar o projeto
  <code> git clone https://github.com/renanmdreis45/App-orcamento-pessoal </code>
 </p>
 <p>
-Em seguida, basta abrir o projeto na sua IDE e executar as páginas html para visualizar no browser.
+Em seguida, basta abrir o projeto na sua IDE e executar a página html para visualizar no browser.
 </p>
 <h2 dir="auto"><a id="user-content--como-contribuir-para-o-projeto" class="anchor" aria-hidden="true" href="#-como-contribuir-para-o-projeto"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>
 <g-emoji class="g-emoji" alias="+1" fallback-src="">:+1:</g-emoji>
